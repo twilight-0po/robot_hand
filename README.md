@@ -8,6 +8,8 @@ detect hand and get coordinates with image
 
 ### window powershell 에서 
 
+
+
 1 필요한 라이브러리 설치
 
 pip install -r requirements.txt
