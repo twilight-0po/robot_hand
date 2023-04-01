@@ -17,4 +17,5 @@ pip install -r requirements.txt
 ---
 
 2 파이썬 파일 실행
+
 python main.py
